@@ -217,7 +217,7 @@ A continuación se muestra la distribución de los tiempos que se le destinaron 
 ---
 ### MVP/Proof of Concept de Dashboard
 
-![MVP_Dashboard](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/119060723/546be25f-c7ae-44ba-bf19-82fb72dcec0d)
+![MVP_Dashboard](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/119060723/a5109ec9-142c-4e89-83c3-77f8329ef540)
 
 
 Para el segundo sprint se avanzó en la estructuración gráfica del Dashboard del MVP a partir de los datos para el estado de California teniendo en cuenta que de los cinco estados seleccionados es el que cuenta con mayor porción de población comparado con los otros cuatro estados. 
