@@ -5,16 +5,16 @@
 
 
 ## Reseñas y Recomendaciones Google Maps - Yelp
-![Alt text](review-Texas/yelp-logo.png)
 
-![Alt text](review-Texas/Google_Maps.png) 
+![Google_Maps](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/119060723/17c7fb14-1793-400e-8ef4-03c3201bb114)
 
+![yelp-logo](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/119060723/fff70e2e-d8a4-4590-a902-1f41213a20fe)
 
 ## Nombre de la Empresa
 
 
 
-![Alt text](review-Texas/LogoDataistas.jpeg)
+![LogoDataistas](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/119060723/eea55756-fa48-4abc-98c8-a86a8b93b286)
 
 ## Distribución de Roles
 |Integrante|Rol|
@@ -56,7 +56,7 @@ Enfoque: _Proporcionar recomendaciones informadas y estratégicas para la toma d
 
 ## **Obejtivo General**
 
-![Alt text](review-Texas/Objetivo%20General.png)
+<img width="1356" alt="Objetivo General" src="https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/119060723/0bb3608d-2ad1-4bc2-8b1f-01e1b6a45141">
 
 ---
 
@@ -117,8 +117,7 @@ De los datasets de Google Maps se utilizarán los archivos metadata.json y los a
 ## **Análisis Stack Tecnológico**
 
 
-![Alt text](review-Texas/Stack%20Tecnologico.png)
-
+<img width="1419" alt="Stack Tecnologico" src="https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/119060723/a5c4d483-1e48-4756-a9ce-955db466348a">
 ___
 
 ## **KPI’s**
@@ -181,9 +180,9 @@ A continuación se muestra la distribución de los tiempos que se le destinaron 
 ---
 
 ## Repositorio Git 
-![Logo Github](review-Texas/Logo%20github.jpeg)
+![Logo github](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/119060723/4bee878e-bcfb-4fbc-abc9-083b17d1abaf)
 
-[Repositorio Github](https://github.com/Tinmarian/Proyecto_Grupal_HENRY/tree/main)
+[Repositorio Github]()
 
 ---
 
@@ -191,7 +190,7 @@ A continuación se muestra la distribución de los tiempos que se le destinaron 
 
 ---
 
-### ETL ![Alt text](review-Texas/ETL.png)
+### ETL ![ETL](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/119060723/393f5fd1-1eb0-4094-bace-0320058f4e6f)
 
 
 ---
@@ -218,7 +217,7 @@ A continuación se muestra la distribución de los tiempos que se le destinaron 
 ---
 ### MVP/Proof of Concept de Dashboard
 
-![Alt text](MVP_Dashboard.png)
+![MVP_Dashboard](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/119060723/546be25f-c7ae-44ba-bf19-82fb72dcec0d)
 
 
 Para el segundo sprint se avanzó en la estructuración gráfica del Dashboard del MVP a partir de los datos para el estado de California teniendo en cuenta que de los cinco estados seleccionados es el que cuenta con mayor porción de población comparado con los otros cuatro estados. 
