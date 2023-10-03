@@ -212,7 +212,8 @@ Procesamiento de Texto en la Columna de Revisión de Usuario:
 9.	Eliminación de Signos de Puntuación: Por último, se procedió a eliminar los signos de puntuación contenidos en el texto de las revisiones de usuario. Esto simplificó el análisis de texto y facilitó la extracción de información relevante.
 
 Estas etapas de limpieza y transformación de datos fueron esenciales para preparar los datos de manera adecuada y asegurar que estuvieran listos para el análisis posterior. La uniformidad de los datos fue mejorada significativamente a lo largo de este proceso.
-![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/119060723/e5261f27-8e49-4fc0-9275-9480a15f5e3e)
+
+
 
 ---
 ### Estructura de datos implementados (DW, DL, etc)
