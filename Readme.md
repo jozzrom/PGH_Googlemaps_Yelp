@@ -193,6 +193,27 @@ A continuación se muestra la distribución de los tiempos que se le destinaron 
 ### ETL ![ETL](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/119060723/393f5fd1-1eb0-4094-bace-0320058f4e6f)
 
 
+A continuación, se enlistan las actividades o procedimientos realizados que constituyen la etapa de Limpieza y Transformación de Datos.
+
+1.	Eliminación de Valores Nulos en la Columna de Review de Usuario: En la primera etapa de limpieza de datos, se procedió a eliminar los valores nulos que se encontraban en la columna de "review de usuario". Esto se hizo para asegurar la integridad de los datos y evitar problemas futuros en el análisis
+.
+2.	Eliminación de Columnas con Altos Porcentajes de Nulos: Después de una revisión exhaustiva de los datos de Google Maps, se identificó que las columnas "pics" y "resp" contenían más del 80% de valores nulos. En consecuencia, se tomó la decisión de eliminar estas dos columnas, ya que su contribución al análisis era limitada debido a la falta de datos significativos.
+
+3.	Conversión de la Columna 'time' en Formato de Fecha: Para facilitar el análisis temporal de las revisiones de los usuarios, se realizó la conversión de la columna 'time' al formato de fecha. Posteriormente, se crearon tres nuevas columnas que contenían la información del año, mes y día en que se registró la revisión del usuario.
+
+4.	Selección de Datos para el Período de 2017 a 2021: Se procedió a seleccionar las reviwx de usuarios que estuvieran registradas en el período comprendido entre los años 2017 y 2021. Esto permitió enfocar el análisis en un rango de tiempo específico.
+
+5.	Verificación de Duplicados y Eliminación: Se llevó a cabo una verificación exhaustiva de duplicados en los datos y se procedió a eliminarlos. Esto aseguró que cada revisión de usuario fuera única en el conjunto de datos.
+
+Procesamiento de Texto en la Columna de Revisión de Usuario:
+6.	Conversión del Texto a Minúsculas: Para homogeneizar el texto y facilitar el análisis de texto, se realizó la conversión de reviews a minúsculas.
+7.	Eliminación de Emojis Utilizando la Librería "Demoji": Se implementó la librería "Demoji" para eliminar los emojis contenidos en el texto de las revisiones de usuario. Esto contribuyó a una limpieza adicional del contenido de texto.
+8.	Verificación y Traducción a Inglés: Se verificó que todas las revisiones de usuario estuvieran en inglés. Aquellas revisiones que no estaban en este idioma fueron traducidas al inglés para mantener la consistencia en el análisis de texto.
+9.	Eliminación de Signos de Puntuación: Por último, se procedió a eliminar los signos de puntuación contenidos en el texto de las revisiones de usuario. Esto simplificó el análisis de texto y facilitó la extracción de información relevante.
+
+Estas etapas de limpieza y transformación de datos fueron esenciales para preparar los datos de manera adecuada y asegurar que estuvieran listos para el análisis posterior. La uniformidad de los datos fue mejorada significativamente a lo largo de este proceso.
+![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/119060723/e5261f27-8e49-4fc0-9275-9480a15f5e3e)
+
 ---
 ### Estructura de datos implementados (DW, DL, etc)
 ---
