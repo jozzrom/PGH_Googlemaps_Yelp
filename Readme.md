@@ -77,10 +77,22 @@ Informe de Recomendaciones y Resultados: Al final del proyecto, se generará un 
 KPI's
 
 1: Mejorar el 10% de las reseñas relacionadas con la categoria de limpieza para los proximos seis meses.
-2. Incrementar en un 5% mensual el número de reseñas en la plataforma de yelp en los los próximos 9 meses 
+2. Incrementar en un 15% mensual el número de reseñas en la plataforma de yelp en los los próximos 9 meses 
 3. Crecer el número de reseñas positivas en un 6% en los locales  en los próximos 5 meses
 
 
+
+Stack tecnologico
+
+
+![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/f55b1a15-d7e8-4cf5-8cf6-732fe0a38da2)
+![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/65d2daaa-d685-4c5b-97a4-7067beffc725)
+![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/467b1c7b-4a9f-4392-b084-3135b0d3d2a0) 
+![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/68f2ec2a-19bb-4d9d-8864-c881abe6698c) 
+![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/d9da7b79-7b88-4ece-9cf0-e3b3eb189475)
+![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/cff8b29f-5e4f-44b6-aba1-72eeff3f7010)
+![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/fc3c58aa-ede8-44e8-ba27-326f791a8d95)
+![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/a625970d-0ebd-496b-a5e1-5b5babaf0568)
 
 
 
