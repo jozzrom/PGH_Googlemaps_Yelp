@@ -56,77 +56,37 @@ Con el desarrollo del proyecto y el modelo, sería posible, en un futuro, amplia
 
 ____
 
+Necesidades del Proyecto
+Análisis de reseñas en plataformas
+
+Seguimiento de indicadores clave de desempeño (KPI's)
+
+Evaluación y recomendaciones estratégicas
+
+Informe detallado de resultados
+
+
+Objetivos Específicos
+Análisis de Presencia en Plataformas de Reseñas: Se llevará a cabo un análisis exhaustivo de las reseñas actuales de KFC en Yelp y Google Maps en losCINCO principales estados turísticos de Estados Unidos: Nueva York, California,Colorado, Texas y Georgia. Se evaluará la satisfacción del cliente, las tendencias en las reseñas, los comentarios frecuentes y los aspectos específicos que contribuyen a las calificaciones.
+Identificación de Debilidades y Oportunidades: A partir del análisis, se identificarán las debilidades clave que afectan la reputación y el ranking de KFC en las plataformas de reseñas. Además, se identificarán las oportunidades subyacentes que podrían ser aprovechadas para mejorar la experiencia del cliente y, por ende, las reseñas.
+Desarrollo de Estrategias de Mejora: Con base en las debilidades y oportunidades identificadas, se diseñarán estrategias personalizadas para abordar los problemas específicos y mejorar la calidad del servicio de las cadenas de KFC. Estas estrategias podrían incluir mejoras en la atención al cliente, la calidad de los productos, la velocidad de servicio y la comunicación en línea.
+Implementación y Seguimiento: Una vez que se hayan establecido las estrategias, se llevará a cabo la implementación gradual en los restaurantes KFC seleccionados en los cinco estados objetivo. Se realizará un seguimiento constante de los indicadores clave de rendimiento, como las calificaciones promedio y el número de reseñas, para medir el éxito de las estrategias implementadas.
+Informe de Recomendaciones y Resultados: Al final del proyecto, se generará un informe detallado que  resuma las debilidades identificadas, las estrategias propuestas, los resultados obtenidos y las lecciones aprendidas. Este informe servirá como guía para la toma de decisiones futuras y como referencia para otros actores en la industria gastronómica.
+
+
+KPI's
+
+1: Mejorar el 10% de las reseñas relacionadas con la categoria de limpieza para los proximos seis meses.
+2. Incrementar en un 5% mensual el número de reseñas en la plataforma de yelp en los los próximos 9 meses 
+3. Crecer el número de reseñas positivas en un 6% en los locales  en los próximos 5 meses
 
 
 
-## **KPI’s**
-
----
-
-*KPI 1*: _Realizar un análisis exploratorio de los datos para comparar el rendimiento en cantidad de locales, así como en promedio de estrellas recibidas, calificación general de la cadena KFC, con respecto a sus principales competidores, a saber: Subway, MacDonald´s, Domino´s Pizza y Pizza Hut._
 
 
-### Promedio de estrellas para Yelp
-
-|Compañía| Promedio Estrellas|
-|:--------|:----:|
-Subway|   2.6
-Domino´s Pizza| 2.28
-Pizza hut| 2.03
-Mc Donald´s | 1.86
-KFC| 1.86
 
 
-### Número de locales para Yelp
-
-|Compañía| Locales|
-|:--------|:--------:|
-Mc Donald´s | 703
-Subway | 459
-Domino´s Pizza| 295
-Pizza Hut | 272
-KFC | 171
-
-
----
-
-*KPI 2*: _Mejorar para un périodo de 3 meses un porcentaje significativo, la cantidad de reseñas positivas en los estados seleccionados a través de un análisis de sentimientos de los datos provenientes de las fuentes Google Maps y Yelp._
-
-Para lograr este objetivo se realizará un proceso de Machine Learning que permita recibir nuevos datos. 
-
----
-
-*KPI 3*:  _Hacer un análisis exhaustivo de los datos de las fuentes citadas para aumentar la cantidad de reseñas recibidas para la cadena KFC enfocados en recomendaciones de mejoras en los rubros que poseen malas calificaciones_(por ejemplo: calidad de las comidas, limpieza de los locales, rapidez del servicio, etc.)
-
-### Cantidad de Reseñas
-
-|Compañía| Locales|
-|:--------|:-------:|
-|McDonald's |17359|
-|Domino's Pizza |6291|
-|Pizza Hut| 17359|
-|Subway| 4588|
-|KFC| 2923|
-
-
----
-
-## **Diagrama de Gantt para Sprint #1**
-
-A continuación se muestra la distribución de los tiempos que se le destinaron para cada una de las tareas establecidas
-
-
----
-
-## Repositorio Git 
-![Logo github](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/119060723/4bee878e-bcfb-4fbc-abc9-083b17d1abaf)
-
-[Repositorio Github]()
-
----
-
-### Sprint 2 Data Engineering
-
+A continuación se muestra la distribución de los tiempos que se le destinaron para cada una de las tareas establ
 ---
 
 ### ETL ![ETL](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/119060723/393f5fd1-1eb0-4094-bace-0320058f4e6f)
