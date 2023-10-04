@@ -103,7 +103,7 @@ Google Maps:
 
 -Reviews por estado.json
 
-En el documento [analisis_preliminar_del_dato](https://docs.google.com/spreadsheets/d/1YwkOk_5r0JqUkhL_tp5NHLAcaPJU1YBV/edit#gid=1462331087) anexado en la carpeta “Sprint_1” en Drive podrás encontrar un análisis detallado de cada uno de los datasets ya mencionados, este incluye: 
+En el documento [Análisis preliminar_del_dato](https://docs.google.com/spreadsheets/d/1YwkOk_5r0JqUkhL_tp5NHLAcaPJU1YBV/edit#gid=1462331087) anexado en la carpeta “Sprint_1” en Drive podrás encontrar un análisis detallado de cada uno de los datasets ya mencionados, este incluye: 
 - descripción general del archivo
 - nombre de cada columna, tipo de dato de cada columna
 - descripción de cada columna, cantidad de datos, tipo de archivo,cantidad de nulos.
@@ -232,8 +232,9 @@ Estas etapas de limpieza y transformación de datos fueron esenciales para prepa
 ---
 ### Documentación
     -Diagrama ER detallado(tablas, PK, FK y tipo de dato)
-    -Diccionario de datos [
-](https://docs.google.com/spreadsheets/d/1ehv-4Jk4Ng3ygzkxJHSPCKgo4I2rHmLj/edit?usp=drive_link&ouid=103990843449218512894&rtpof=true&sd=true)    -Workflow detallando tecnologías
+    -Diccionario de datos [Diccionario_Datos
+](https://docs.google.com/spreadsheets/d/1ehv-4Jk4Ng3ygzkxJHSPCKgo4I2rHmLj/edit?usp=drive_link&ouid=103990843449218512894&rtpof=true&sd=true)    
+-Workflow detallando tecnologías
 ---
 ### Análisis de datos de muestra
 
