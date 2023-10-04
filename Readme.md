@@ -22,22 +22,8 @@ Descripción + Objetivo
 
 
 
+![WhatsApp Image 2023-10-04 at 11 34 46](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/00541eed-e44a-40c3-8038-ac32684552a4)
 
-
-
-
-“DESCUBRE EL PODER DE TUS DATOS”
-Fanny Sanchez
-Jocelyn Romano
-Ferido Gravina
-Tinmar Andrade
-Jorge Gomez
-Data Scientist
-Data Scientist
-Data  Engineer
-Data  Engineer
-Data  Analyst
-Equipo
 
 
 
