@@ -16,19 +16,30 @@ Descripción + Objetivo
 
 ## Reseñas y Recomendaciones Google Maps - Yelp
 
-![Google_Maps](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/119060723/17c7fb14-1793-400e-8ef4-03c3201bb114)
+ ![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/482fd425-002e-4272-89a1-02d3c32d18b0)
 
-![yelp-logo](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/119060723/fff70e2e-d8a4-4590-a902-1f41213a20fe)
+![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/8264a781-2dcf-4085-9943-f3448a5eeb46)
 
 
-## Distribución de Roles
-|Integrante|Rol|
-|:-----:|:---:|
-|Jorge Gómez | Data Analyst|
-|Federico Gravina | Data Engineer|
-Tinmar Andrade | Data Engineer|
-Fanny Fitz |Data Scientist
-Jocelyn Romano | Data Scientist
+
+
+
+
+
+“DESCUBRE EL PODER DE TUS DATOS”
+Fanny Sanchez
+Jocelyn Romano
+Ferido Gravina
+Tinmar Andrade
+Jorge Gomez
+Data Scientist
+Data Scientist
+Data  Engineer
+Data  Engineer
+Data  Analyst
+Equipo
+
+
 
 ---
 
