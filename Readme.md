@@ -12,56 +12,39 @@ Cómo clientes de la cadena de comidas KFC, realizamos una análisis de datos co
 
 
 
-Contenidos
-Descripción + Objetivo
-
-
-
 ## Reseñas y Recomendaciones Google Maps - Yelp
 
  ![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/482fd425-002e-4272-89a1-02d3c32d18b0)
 
 ![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/8264a781-2dcf-4085-9943-f3448a5eeb46)
 
+¿Quienes somos?
+Somos Dataistas, una consultora especializada en el análisis de negocios que aplica la ciencia de datos de manera innovadora para impulsar el éxito de las empresas. Como equipo de científicos de datos experimentados en el rubro, nos dedicamos a transformar datos en información valiosa que guía decisiones estratégicas y proporciona una ventaja competitiva en el mercado.
 
+Nuestra misión es brindar soluciones a medida para cada cliente, reconociendo que cada negocio es único y enfrenta desafíos específicos. Trabajamos en estrecha colaboración con nuestros clientes para comprender sus objetivos y necesidades, y luego aplicamos técnicas avanzadas de análisis de datos para obtener información relevante.
+
+NUESTRO EQUIPO
 
 ![WhatsApp Image 2023-10-04 at 11 34 46](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/00541eed-e44a-40c3-8038-ac32684552a4)
 
 
+   INTRODUCCION.
 
+ DATAISTAS es una consultora especializada en análisis de datos. En un mundo cada vez más digitalizado y competitivo, la información se ha convertido en el activo más valioso para la toma de decisiones estratégicas.
 
----
+Este análisis de datos nos permite proporcionar un análisis detallado basado en los datos recopilados, brindando asesoría y recomendaciones a nuestro cliente. Esta información resultaría sumamente valiosa para la toma de decisiones estratégicas y para mejorar la reputación del negocio. Nuestro análisis permitirá a nuestro cliente tomar decisiones informadas, identificar oportunidades estratégicas y enfrentar los desafíos con confianza.
 
-## **Planteamiento del problema**
+Planteamiento del problema
 
-----
+Mejorar la visibilidad y el impacto del negocio de nuestro cliente, que opera el restaurante "KFC" presente en diversos estados de Estados Unidos.
+Nuestra misión es potenciar la visibilidad y el impacto de su negocio, tanto entre los comensales que disfrutan de su experiencia in situ como entre aquellos que toman decisiones basadas en las reseñas que descubren en la plataforma Yelp y Google Maps.Este enfoque se concentrará especialmente en las sucursales ubicadas en las ciudades de California,Nueva York, Texas,Colorado y Georgia.
 
-El problema que abordaremos en este proyecto se relaciona con la necesidad de mejorar la visibilidad y el impacto del negocio de nuestro cliente, que opera el restaurante "KFC" en el estado de Georgia en Estados Unidos. 
+Alcance del Proyecto
 
-Actualmente, el restaurante “KFC” desconoce la opinión general que tiene el público de la calidad de sus servicios. 
-
-Además, la influencia de las reseñas en plataformas como Yelp en las decisiones de los consumidores se ha vuelto cada vez más importante.
-
-La falta de una estrategia sólida de gestión de la reputación en línea y la insuficiente atención a las opiniones de los clientes pueden estar afectando negativamente la percepción del restaurante y su capacidad para atraer nuevos clientes.
-
----
-
-## **Alcance del proyecto**
-
----
-El proyecto se enfocará en restaurantes de la cadena “KFC” ubicados en las ciudades de California, Nueva York, Colorado, Texas y Georgia, dentro de los Estados Unidos. 
-
-De igual forma se incluirán los datos de la cadena Domino 's Pizza, McDonald's, Subway, Pizza Hut  y afines localizados en los estados ya mencionados. 
-
-Identificación de oportunidades de mejora en estados más turísticos de Estados Unidos (California, New York, Colorado, Texas y Georgia)
-Análisis exhaustivo de la industria gastronómica integrando las reseñas de Google Maps y Yelp
-Enfoque: _Proporcionar recomendaciones informadas y estratégicas para la toma de decisiones_
-
----
+El proyecto se enfocará en los locales de KFC ubicados en las ciudades de California,Nueva York, Texas,Colorado y Georgia.   dentro de los Estados Unidos. Se recopilarán y analizarán datos de reseñas y calificaciones provenientes de plataformas como Yelp y Google Maps. Estas fuentes de información proporcionarán información valiosa sobre la percepción de los clientes y la reputación en línea de los locales de KFC en las áreas mencionadas.
 
 ## **Obejtivo General**
 
-<img width="1356" alt="Objetivo General" src="https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/119060723/0bb3608d-2ad1-4bc2-8b1f-01e1b6a45141">
 
 ---
 
@@ -73,57 +56,8 @@ Con el desarrollo del proyecto y el modelo, sería posible, en un futuro, amplia
 
 ____
 
-## **Objetivos Específicos**
-
----
-Se recopilará información como reseñas y calificaciones provenientes de plataformas como Maps y Yelp.
-Garantizar la disponibilidad de datos limpios y estructurados.
-
-Se realizará un análisis de sentimiento sobre las reseñas de Google Maps y Yelp, esto con el fin de entender la percepción que tienen los clientes sobre el servicio en dichos restaurantes. 
-
-_Con los resultados obtenidos se realizará una comparativa entre nuestro cliente KFC contra sus demás sucursales ubicadas en los estados ya mencionados_. 
-Se comparará el desempeño entre las cadenas KFC vs su competencia a través de locales afines y el análisis de  información proveniente de las plataformas ya mencionadas. 
-
-Crear una interfaz interactiva que visualice y explore los resultados del análisis.
-
----
-## **Análisis Preliminar del Dato**
-Se realizó un análisis preliminar de los dataset: 
-
-Yelp:
-
--Business.plk
-
--Checkin.json
-
--Tip.json
-
--Review.json
-
--User.parquet
-
-Google Maps:
-
--Metadata.json
-
--Reviews por estado.json
-
-En el documento [Análisis preliminar_del_dato](https://docs.google.com/spreadsheets/d/1YwkOk_5r0JqUkhL_tp5NHLAcaPJU1YBV/edit#gid=1462331087) anexado en la carpeta “Sprint_1” en Drive podrás encontrar un análisis detallado de cada uno de los datasets ya mencionados, este incluye: 
-- descripción general del archivo
-- nombre de cada columna, tipo de dato de cada columna
-- descripción de cada columna, cantidad de datos, tipo de archivo,cantidad de nulos.
-
-De los datasets de Yelp, se plantea utilizar el archivo Business.plk,  ya que contiene información de los establecimientos,  review.json y tip.json porque contiene los reviews de cada establecimiento. 
-
-De los datasets de Google Maps se utilizarán los archivos metadata.json y los archivos de las carpetas California, New York, Colorado, Texas y Georgia que contiene las review por estado.
-
------
-
-## **Análisis Stack Tecnológico**
 
 
-<img width="1419" alt="Stack Tecnologico" src="https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/119060723/a5c4d483-1e48-4756-a9ce-955db466348a">
-___
 
 ## **KPI’s**
 
