@@ -227,7 +227,51 @@ Estas etapas de limpieza y transformación de datos fueron esenciales para prepa
 ### Automatización
 ---
 ### Validación de datos
+Las actividades realizadas proporcionan una comprensión profunda de la información contenida en el conjunto de datos,tanto para Yelp como para Google Maps, lo que facilita la toma de decisiones informadas y la identificación de patrones valiosos para el proyecto en cuestión.
+1. Tipo de dato para cada columna: En esta etapa, se examinan todas las columnas del conjunto de datos para determinar qué tipo de datos contienen. 
+2. Número de nulos por columna: Se realiza un conteo de la cantidad de valores faltantes o nulos en cada columna. 
+3. Exploración de variables categóricas.
+4.Análisis de relaciones: En esta etapa, se investigan las relaciones entre las diferentes variables del conjunto de datos. Esto incluye un análisis de correlación entre variables numéricas.
+5. Calificaciones por restaurante: Evaluación del desempeño de cada restaurante. mediante la agrupación de datos por restaurante, cálculo de estadísticas como promedios de calificaciones y la creación de visualizaciones para comparar el rendimiento de los restaurantes.
 
+EDA RESTAURANTES ELEGIDOS: MC Donald’s, KFC, SUBWAY, STARBUCKS, DOMINO’S PIZZA
+
+El análisis de los datos de los restaurantes elegidos nos da un insight más produndo de la situación actual de estos. Las actividades realizadas facilitan la toma de decisiones informadas y la identificación de patrones valiosos para el proyecto en cuestión. Este análisis del dato fue realizado une vez hecho la limpieza y el ordenamiento de los datasets. A continuación se presentan las características que se tomaron en cuenta pata dicha exploración:
+
+1.	Total de Reviews por restaurante: Este punto implica calcular la cantidad total de reseñas u opiniones que ha recibido cada restaurante en el conjunto de datos. Puede ser útil para identificar los restaurantes más y menos comentados.
+
+![Imagen 1_joce](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/119060723/cfd6794b-2452-4e8b-a06f-cf99a53fd5ae)
+
+2.	Cantidad de Restaurantes por cadena: En este caso, se realiza un conteo de la cantidad de restaurantes que pertenecen a cada cadena o franquicia presente en el conjunto de datos. Esto proporciona una visión de la distribución de restaurantes entre diferentes cadenas y puede ayudar a identificar cuáles tienen una mayor presencia.
+
+   ![Imagen 2_joce](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/119060723/32837c4c-7774-4b97-9552-f0de7730ab7d)
+
+3.	Cantidad de restaurantes por estado: Se realiza un conteo del número de restaurantes por cadena para cada estado.
+
+   ![Imagen 3_Joce](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/119060723/0d156b7e-b379-4e86-9dc4-6da096725235)
+
+   4.	Porcentaje de restaurantes para cada cadena: Se calcula el porcentaje que representa cada cadena o franquicia en relación con el total de restaurantes en el conjunto de datos. Ayuda a entender la proporción de restaurantes que pertenecen a cada cadena en el contexto general y es útil para comprender la participación de mercado de cada una.
+
+   <img width="248" alt="Imagen 4_joce" src="https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/119060723/30db6b63-6100-4798-b8ef-7f53288c0196">
+
+5.	Promedio de Calificaciones por Restaurante y Estado: Esto proporciona información sobre la satisfacción promedio de los clientes en cada estado para cada restaurante individual. Es útil para identificar cómo varía la calidad de los restaurantes según su ubicación.
+
+6.	Promedio de Calificaciones por Restaurante: Gráfico sobre la satisfacción promedio de los clientes para cada restaurante individual. Es útil para identificar cómo varía la calidad de los restaurantes.
+
+<img width="324" alt="Imagen 5_joce" src="https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/119060723/28c126ed-552f-4a14-a969-3c819c824eac">
+
+7.	Distribución de Calificaciones por Estado y Cadena de Restaurantes: Se examina la distribución de las calificaciones otorgadas por los clientes en relación con el estado en el que se encuentra el restaurante y la cadena a la que pertenece. Esto permite comprender cómo se distribuyen las calificaciones tanto a nivel geográfico como dentro de las diferentes cadenas. Puede ayudar a identificar tendencias regionales y evaluar el desempeño de cada cadena en diferentes ubicaciones.
+
+8.	Relación entre calificaciones y Revisiones por Cadena (sin considerar estado): Este análisis busca examinar la relación entre las calificaciones de los restaurantes y la cantidad de revisiones o reseñas que han recibido, sin tener en cuenta la ubicación geográfica (estado). Esto para ayudar a comprender si la popularidad o la calidad de una cadena influye en la cantidad de reseñas que recibe.
+
+![Imagen 6_joce](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/119060723/c0a9a572-b51b-4636-a2a3-6ec3dcc96b4a)
+
+
+<img width="328" alt="Imagen 17_jocepng" src="https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/119060723/b6bcee9e-1934-40b8-b372-efd22b77877f">
+
+9.	Porcentaje de Estrellas por cadena: En este punto, se calcula el porcentaje de estrellas otorgadas a cada cadena de restaurantes en relación con el total de estrellas otorgadas en el conjunto de datos. Esto proporciona una visión de cómo se distribuyen las calificaciones por estrellas entre las diferentes cadenas, lo que puede ayudar a identificar cuáles cadenas tienen una mayor proporción de calificaciones positivas o negativas en comparación con otras.
+
+    <img width="442" alt="Imagen 8_joce" src="https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/119060723/eaa1cf1e-d486-4d20-bec5-16cfd9afe4f0">
 
 ---
 ### Documentación
