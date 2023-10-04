@@ -18,11 +18,6 @@ Descripción + Objetivo
 
 ![yelp-logo](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/119060723/fff70e2e-d8a4-4590-a902-1f41213a20fe)
 
-## Nombre de la Empresa
-
-
-
-![LogoDataistas](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/119060723/eea55756-fa48-4abc-98c8-a86a8b93b286)
 
 ## Distribución de Roles
 |Integrante|Rol|
