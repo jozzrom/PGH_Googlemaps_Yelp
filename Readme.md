@@ -1,7 +1,15 @@
 
-## ***__Proyecto Grupal__***
+[LogoDataistas](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/119060723/eea55756-fa48-4abc-98c8-a86a8b93b286)
 
-## Sprint # 1 Puesta en marcha del proyecto y Trabajo con Datos
+
+
+Contexto 🌍
+
+La opinión de los usuarios se ha convertido en un dato invaluable en la planificación de estrategias comerciales. Plataformas de reseñas como Yelp y Google Maps proporcionan una gran cantidad de información sobre la percepción de los usuarios respecto a diversos negocios, incluyendo restaurantes, hoteles, esteticas y otros servicios relacionados. Esta retroalimentación es escencial para las empresas, ya que les permite evaluar su desempeño, identificar áreas de mejora y comprender cómo son percibidas por los usuarios. Como parte de una consultora de data, se nos ha contratado para realizar un análisis detallado de la opinión de los usuarios en Yelp y Google Maps sobre negocios relacionados con el cuidado personal y la estética en el mercado estadounidense. El rubro de belleza abarca una amplia gama de servicios y establecimientos relacionados con el cuidado personal y la estética. Algunos ejemplos de negocios dentro de este rubro son los salones de belleza, spas, peluquerías, barberías, salones de uñas, centros de estética, salones de masajes y tiendas de productos de belleza.
+
+Contenidos
+Descripción + Objetivo
+
 
 
 ## Reseñas y Recomendaciones Google Maps - Yelp
