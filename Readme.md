@@ -6,8 +6,11 @@ GOOGLE MAPS + YELP
 
 Contexto 🌍
 
-La opinión de los usuarios se ha convertido en un dato invaluable en la planificación de estrategias comerciales. Plataformas de reseñas como Yelp y Google Maps proporcionan una gran cantidad de información sobre la percepción de los usuarios respecto a diversos restaurantes y nos enfocamos como clientes de KFC, en su competencia directa que son las cadenas MCDONALD
-'S,STARBUCKS,DOMINOS PIZZA Y SUBWAY. Esta retroalimentación es escencial para las empresas, ya que les permite evaluar su desempeño, identificar áreas de mejora y comprender cómo son percibidas por los usuarios. Como parte de una consultora de data, se nos ha contratado para realizar un análisis detallado de la opinión de los usuarios en Yelp y Google Maps sobre negocios relacionados con la industria gastronomica en el mercado estadounidense.
+La opinión de los usuarios se ha convertido en un dato invaluable en la planificación de estrategias comerciales. Plataformas de reseñas como Yelp y Google Maps proporcionan una gran cantidad de información que pueden ser usadas por las empresas para mejorar su percepción frente a su público.
+
+Cómo clientes de la cadena de comidas KFC, realizamos una análisis de datos con el foco en el sector gastronómico en general y en la competencia directa de nuestro cliente en los Estados Unidos de America que son las empresas MacDonald´s, Starbucks, Domino´s Pizza Y Subway. Mediante el desarrollo de este trabajo y como consultora de data, encontramos aspectos que nos permite evaluar su desempeño, identificar áreas de mejora y comprender cómo son percibidas por los usuarios en cada aspecto relevante de las opiniones obtenidas de nuestras fuentes.
+
+
 
 Contenidos
 Descripción + Objetivo
