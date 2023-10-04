@@ -264,6 +264,7 @@ En resumen, los datos tienen una distribución de calificaciones sesgada hacia v
 
 Con la gráfica de correlación podemos identificar la relación entre las variables númericas del Dataframe, teniendo como resultado una correlación positiva entre el rating y el average rating. 
 Mientras que se identifcan correlaciones negativas entre en el número de reviews y el promedio de calificación (avg_rating) lo cual nos indica que no necesariamente porque se tenga mas número de reviews se puedan llegar a tener reviews positivos.
+
 ---
 ### MVP/Proof of Concept de Dashboard
 
