@@ -93,6 +93,7 @@ Stack tecnologico
 ![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/cff8b29f-5e4f-44b6-aba1-72eeff3f7010)
 ![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/fc3c58aa-ede8-44e8-ba27-326f791a8d95)
 ![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/a625970d-0ebd-496b-a5e1-5b5babaf0568)
+![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/274b3b79-da0d-4810-b9ec-a43c956d4500)
 
 
 
