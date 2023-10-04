@@ -227,6 +227,8 @@ Estas etapas de limpieza y transformación de datos fueron esenciales para prepa
 ### Automatización
 ---
 ### Validación de datos
+
+
 ---
 ### Documentación
     -Diagrama ER detallado(tablas, PK, FK y tipo de dato)
@@ -235,7 +237,33 @@ Estas etapas de limpieza y transformación de datos fueron esenciales para prepa
 ---
 ### Análisis de datos de muestra
 
+El código de los datos de muestra se encuentra alojado en el archivo California.ipynb en el cual se realizó la toma de una porción de los datos de la metadata de Google especificamente para este estado teniendo en cuenta California es conocida por su diversidad cultural y culinaria, lo que ha llevado a la proliferación de una amplia variedad de restaurantes que ofrecen cocinas de todo el mundo. Ciudades como Los Ángeles, San Francisco y San Diego son especialmente conocidas por sus escenas culinarias vibrantes y diversificadas.
 
+Además, California es un importante productor de alimentos en los Estados Unidos, lo que significa que muchos restaurantes en el estado tienen acceso a ingredientes frescos y de alta calidad. 
+
+## Outliers
+
+![Outliers](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/119060723/cc934181-da8d-4b2d-959a-c328a058ccff)
+
+Podemos evidenciar que el conjunto de datos de Calificación Promedio y el Número de Reseñas se encuentra dentro del rango de 0 a 200 reseñas. Sin embargo llama la atención un punto de datos que alcanza el número de reseñas de los 600 y ubicandose dentro del rango de 4,5 y 5.0 en calificación. 
+
+Se debe tener en cuenta que el Dataframe contiene de datos para todo tipo de de cadenas de restaurantes ubicados en estado de california por lo que es posible que este outlier se refiera a una cadena de restaurantes que tiene alta presencia de locales físicos en el estado.
+Este punto lo estaremos identificando en los siguientes pasos.
+
+![histograma](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/119060723/88ca2785-1039-4804-af51-cebab04341c3)
+
+Modalidad (Moda): La moda en el conjunto de datos es 5, lo que significa que 5 es la calificación más frecuente y, por lo tanto, la más común.
+
+Sesgo a la Izquierda: La distribución muestra un sesgo hacia valores más bajos (4, 3, 2 y 1), lo que indica que la mayoría de las calificaciones tienden a estar por debajo de la calificación máxima de 5.
+
+Tendencia Central: Aunque 5 es la moda (el valor más común), la mediana (valor en el medio cuando los valores están ordenados) podría ser menor que 5 debido al sesgo hacia valores más bajos. La mediana divide la distribución en dos mitades iguales.
+
+En resumen, los datos tienen una distribución de calificaciones sesgada hacia valores más bajos, con 5 como la calificación más común. Esta información puede ser valiosa para comprender la satisfacción o la calidad de los elementos calificados en el conjunto de datos.
+
+![correlacion](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/119060723/76a033c4-8a78-4603-9653-8e734bdd0ef0)
+
+Con la gráfica de correlación podemos identificar la relación entre las variables númericas del Dataframe, teniendo como resultado una correlación positiva entre el rating y el average rating. 
+Mientras que se identifcan correlaciones negativas entre en el número de reviews y el promedio de calificación (avg_rating) lo cual nos indica que no necesariamente porque se tenga mas número de reviews se puedan llegar a tener reviews positivos.
 ---
 ### MVP/Proof of Concept de Dashboard
 
@@ -258,7 +286,7 @@ El dasboard entonces se construyó con a partir de estos datos y luego de realiz
 
 - A partir de la muestra y comparado con su competencia KFC se encuentra en un promedio de Rating por debajo de las marcas Domino´s, Subway y Mc Donalds teniendo como un 63% de reseñas negativas.
 
-- Las reseñas negativas para KFC, a partir del análisis de sentimientos realizado se fundamentan principalmente en el precio y la comida, es decir que la percepción del precio versus la comida es observada por los consumidores como negativa.
+- Se debe incrementar las reseñas positivas que tiene KFC ya que es una oportunidad de mejora para su posicionamiento en el mercado y ser atractivo para los consumidores.
 
 
 
