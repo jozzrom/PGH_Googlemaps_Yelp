@@ -232,8 +232,8 @@ Estas etapas de limpieza y transformación de datos fueron esenciales para prepa
 ---
 ### Documentación
     -Diagrama ER detallado(tablas, PK, FK y tipo de dato)
-    -Diccionario de datos
-    -Workflow detallando tecnologías
+    -Diccionario de datos [
+](https://docs.google.com/spreadsheets/d/1ehv-4Jk4Ng3ygzkxJHSPCKgo4I2rHmLj/edit?usp=drive_link&ouid=103990843449218512894&rtpof=true&sd=true)    -Workflow detallando tecnologías
 ---
 ### Análisis de datos de muestra
 
