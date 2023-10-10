@@ -82,20 +82,23 @@ KPI's
 
 
 
-Stack tecnologico
+Stack tecnologico:
 
-
-![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/f55b1a15-d7e8-4cf5-8cf6-732fe0a38da2)
-![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/65d2daaa-d685-4c5b-97a4-7067beffc725)
-![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/467b1c7b-4a9f-4392-b084-3135b0d3d2a0) 
-![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/68f2ec2a-19bb-4d9d-8864-c881abe6698c) 
-![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/d9da7b79-7b88-4ece-9cf0-e3b3eb189475)
-![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/cff8b29f-5e4f-44b6-aba1-72eeff3f7010)
-![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/fc3c58aa-ede8-44e8-ba27-326f791a8d95)
-![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/a625970d-0ebd-496b-a5e1-5b5babaf0568)
-![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/274b3b79-da0d-4810-b9ec-a43c956d4500)
-
-
+Github: Alojamiento de nuestro repositorio.
+Visual Studio Code: Software para trabajar de forma local en el proyecto.
+Google Cloud Platform: Plataforma de computación en la nube que ofrece una amplia gama de servicios de infraestructura y aplicaciones en la nube.
+Google Cloud Storage: Servicio Cloud de almacenamiento.
+Google Cloud Function: Servicio sin servidor para ejecutar código en respuesta a eventos.
+Google Cloud Scheduler: Servicio para programar tareas en la nube.
+Google Big Query: Servicio para hacer análisis de datos de gran escala en la nube.
+Google Cloud API's: Conjunto de API's que permite acceder a los servicios y datos en la nube.
+Power BI: Software de visualización de datos interactivo desarrollado por Microsoft.
+Python: Lenguaje de programación usado para ciencia de datos.
+Spark: Motor de procesamiento de datos distribuido de código abierto.
+Python: Será el lenguaje de programación que elegiremos por su versatilidad, velocidad y confiabilidad.
+Pandas: Libreria escrita para el lenguaje Python para la manipulación y el análisis de datos.
+Matplotlib: Libreria en Python para crear visualizaciones de nuestros datos.
+Seaborn: Libreria de visualización de datos de Python basada en matplotlib.
 
 
 
