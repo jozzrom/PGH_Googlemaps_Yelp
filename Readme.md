@@ -43,7 +43,7 @@ Alcance del Proyecto
 
 El proyecto se enfocará en los locales de KFC ubicados en las ciudades de California,Nueva York, Texas,Colorado y Georgia.   dentro de los Estados Unidos. Se recopilarán y analizarán datos de reseñas y calificaciones provenientes de plataformas como Yelp y Google Maps. Estas fuentes de información proporcionarán información valiosa sobre la percepción de los clientes y la reputación en línea de los locales de KFC en las áreas mencionadas.
 
-## **Obejtivo General**
+## **Objetivo General**
 
 
 ---
