@@ -8,7 +8,7 @@ Contexto 🌍
 
 La opinión de los usuarios se ha convertido en un dato invaluable en la planificación de estrategias comerciales. Plataformas de reseñas como Yelp y Google Maps proporcionan una gran cantidad de información que pueden ser usadas por las empresas para mejorar su percepción frente a su público.
 
-Cómo clientes de la cadena de comidas KFC, realizamos una análisis de datos con el foco en el sector gastronómico en general y en la competencia directa de nuestro cliente en los Estados Unidos de America que son las empresas MacDonald´s, Starbucks, Domino´s Pizza Y Subway. Mediante el desarrollo de este trabajo y como consultora de data, encontramos aspectos que nos permite evaluar su desempeño, identificar áreas de mejora y comprender cómo son percibidas por los usuarios en cada aspecto relevante de las opiniones obtenidas de nuestras fuentes.
+Cómo clientes de la cadena de comidas KFC, realizamos una análisis de datos con el foco en el sector gastronómico en general y en la competencia directa de nuestro cliente en los Estados Unidos de America que son las empresas MacDonald´s, Starbucks, Domino´s Pizza,  Subway y tomando la oferta gastronómica como un todo. Mediante el desarrollo de este trabajo y como consultora de data, encontramos aspectos que nos permite evaluar su desempeño, identificar áreas de mejora y comprender cómo son percibidas por los usuarios en cada aspecto relevante de las opiniones obtenidas de nuestras fuentes.
 
 
 
@@ -25,7 +25,8 @@ Nuestra misión es brindar soluciones a medida para cada cliente, reconociendo q
 
 NUESTRO EQUIPO
 
-![WhatsApp Image 2023-10-04 at 11 34 46](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/00541eed-e44a-40c3-8038-ac32684552a4)
+![WhatsApp Image 2023-10-13 at 17 56 07](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/124220922/b28ac182-b702-44d4-b9b0-e86a1eee1343)
+
 
 
    INTRODUCCION.
@@ -37,11 +38,11 @@ Este análisis de datos nos permite proporcionar un análisis detallado basado e
 Planteamiento del problema
 
 Mejorar la visibilidad y el impacto del negocio de nuestro cliente, que opera el restaurante "KFC" presente en diversos estados de Estados Unidos.
-Nuestra misión es potenciar la visibilidad y el impacto de su negocio, tanto entre los comensales que disfrutan de su experiencia in situ como entre aquellos que toman decisiones basadas en las reseñas que descubren en la plataforma Yelp y Google Maps.Este enfoque se concentrará especialmente en las sucursales ubicadas en las ciudades de California,Nueva York, Texas,Colorado y Georgia.
+Nuestra misión es potenciar la visibilidad y el impacto de su negocio, tanto entre los comensales que disfrutan de su experiencia in situ como entre aquellos que toman decisiones basadas en las reseñas que descubren en la plataforma Yelp y Google Maps.Este enfoque se concentrará especialmente en las sucursales ubicadas en las ciudades de California, Nueva York, Texas, Colorado y Georgia.
 
 Alcance del Proyecto
 
-El proyecto se enfocará en los locales de KFC ubicados en las ciudades de California,Nueva York, Texas,Colorado y Georgia.   dentro de los Estados Unidos. Se recopilarán y analizarán datos de reseñas y calificaciones provenientes de plataformas como Yelp y Google Maps. Estas fuentes de información proporcionarán información valiosa sobre la percepción de los clientes y la reputación en línea de los locales de KFC en las áreas mencionadas.
+El proyecto se enfocará en los locales de KFC ubicados en las ciudades de California,Nueva York, Texas, Colorado y Georgia, dentro de los Estados Unidos. Se recopilarán y analizarán datos de reseñas y calificaciones provenientes de plataformas como Yelp y Google Maps.
 
 ## **Objetivo General**
 
@@ -82,20 +83,23 @@ KPI's
 
 
 
-Stack tecnologico
+Stack tecnologico:
 
-
-![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/f55b1a15-d7e8-4cf5-8cf6-732fe0a38da2)
-![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/65d2daaa-d685-4c5b-97a4-7067beffc725)
-![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/467b1c7b-4a9f-4392-b084-3135b0d3d2a0) 
-![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/68f2ec2a-19bb-4d9d-8864-c881abe6698c) 
-![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/d9da7b79-7b88-4ece-9cf0-e3b3eb189475)
-![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/cff8b29f-5e4f-44b6-aba1-72eeff3f7010)
-![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/fc3c58aa-ede8-44e8-ba27-326f791a8d95)
-![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/a625970d-0ebd-496b-a5e1-5b5babaf0568)
-![image](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/274b3b79-da0d-4810-b9ec-a43c956d4500)
-
-
+Github: Alojamiento de nuestro repositorio.
+Visual Studio Code: Software para trabajar de forma local en el proyecto.
+Google Cloud Platform: Plataforma de computación en la nube que ofrece una amplia gama de servicios de infraestructura y aplicaciones en la nube.
+Google Cloud Storage: Servicio Cloud de almacenamiento.
+Google Cloud Function: Servicio sin servidor para ejecutar código en respuesta a eventos.
+Google Cloud Scheduler: Servicio para programar tareas en la nube.
+Google Big Query: Servicio para hacer análisis de datos de gran escala en la nube.
+Google Cloud API's: Conjunto de API's que permite acceder a los servicios y datos en la nube.
+Power BI: Software de visualización de datos interactivo desarrollado por Microsoft.
+Python: Lenguaje de programación usado para ciencia de datos.
+Spark: Motor de procesamiento de datos distribuido de código abierto.
+Python: Será el lenguaje de programación que elegiremos por su versatilidad, velocidad y confiabilidad.
+Pandas: Libreria escrita para el lenguaje Python para la manipulación y el análisis de datos.
+Matplotlib: Libreria en Python para crear visualizaciones de nuestros datos.
+Seaborn: Libreria de visualización de datos de Python basada en matplotlib.
 
 
 
