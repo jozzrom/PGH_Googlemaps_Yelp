@@ -8,7 +8,7 @@ Contexto 🌍
 
 La opinión de los usuarios se ha convertido en un dato invaluable en la planificación de estrategias comerciales. Plataformas de reseñas como Yelp y Google Maps proporcionan una gran cantidad de información que pueden ser usadas por las empresas para mejorar su percepción frente a su público.
 
-Cómo clientes de la cadena de comidas KFC, realizamos una análisis de datos con el foco en el sector gastronómico en general y en la competencia directa de nuestro cliente en los Estados Unidos de America que son las empresas MacDonald´s, Starbucks, Domino´s Pizza Y Subway. Mediante el desarrollo de este trabajo y como consultora de data, encontramos aspectos que nos permite evaluar su desempeño, identificar áreas de mejora y comprender cómo son percibidas por los usuarios en cada aspecto relevante de las opiniones obtenidas de nuestras fuentes.
+Cómo clientes de la cadena de comidas KFC, realizamos una análisis de datos con el foco en el sector gastronómico en general y en la competencia directa de nuestro cliente en los Estados Unidos de America que son las empresas MacDonald´s, Starbucks, Domino´s Pizza,  Subway y tomando la oferta gastronómica como un todo. Mediante el desarrollo de este trabajo y como consultora de data, encontramos aspectos que nos permite evaluar su desempeño, identificar áreas de mejora y comprender cómo son percibidas por los usuarios en cada aspecto relevante de las opiniones obtenidas de nuestras fuentes.
 
 
 
@@ -37,11 +37,11 @@ Este análisis de datos nos permite proporcionar un análisis detallado basado e
 Planteamiento del problema
 
 Mejorar la visibilidad y el impacto del negocio de nuestro cliente, que opera el restaurante "KFC" presente en diversos estados de Estados Unidos.
-Nuestra misión es potenciar la visibilidad y el impacto de su negocio, tanto entre los comensales que disfrutan de su experiencia in situ como entre aquellos que toman decisiones basadas en las reseñas que descubren en la plataforma Yelp y Google Maps.Este enfoque se concentrará especialmente en las sucursales ubicadas en las ciudades de California,Nueva York, Texas,Colorado y Georgia.
+Nuestra misión es potenciar la visibilidad y el impacto de su negocio, tanto entre los comensales que disfrutan de su experiencia in situ como entre aquellos que toman decisiones basadas en las reseñas que descubren en la plataforma Yelp y Google Maps.Este enfoque se concentrará especialmente en las sucursales ubicadas en las ciudades de California, Nueva York, Texas, Colorado y Georgia.
 
 Alcance del Proyecto
 
-El proyecto se enfocará en los locales de KFC ubicados en las ciudades de California,Nueva York, Texas,Colorado y Georgia.   dentro de los Estados Unidos. Se recopilarán y analizarán datos de reseñas y calificaciones provenientes de plataformas como Yelp y Google Maps. Estas fuentes de información proporcionarán información valiosa sobre la percepción de los clientes y la reputación en línea de los locales de KFC en las áreas mencionadas.
+El proyecto se enfocará en los locales de KFC ubicados en las ciudades de California,Nueva York, Texas, Colorado y Georgia, dentro de los Estados Unidos. Se recopilarán y analizarán datos de reseñas y calificaciones provenientes de plataformas como Yelp y Google Maps.
 
 ## **Obejtivo General**
 
