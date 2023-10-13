@@ -25,7 +25,8 @@ Nuestra misión es brindar soluciones a medida para cada cliente, reconociendo q
 
 NUESTRO EQUIPO
 
-![WhatsApp Image 2023-10-04 at 11 34 46](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/122370500/00541eed-e44a-40c3-8038-ac32684552a4)
+![WhatsApp Image 2023-10-13 at 17 56 07](https://github.com/jozzrom/PGH_Googlemaps_Yelp/assets/124220922/b28ac182-b702-44d4-b9b0-e86a1eee1343)
+
 
 
    INTRODUCCION.
