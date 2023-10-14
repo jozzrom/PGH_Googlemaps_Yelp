@@ -87,29 +87,46 @@ Haz click en nuestros nombres para visitar nuestro perfil en LinkedIn.
 <div align="center">
   
 **Data Engineer:**
-![Federico Gravina](https://www.linkedin.com/in/federico-gravina-23a289b2/)|
-  | :---: | :---: |
+</div>
+
+<div align="center">
+
+[<sub>Federico Gravina</sub>](https://www.linkedin.com/in/federico-gravina-23a289b2/)
+</div>
+
+<div align="center">
+
+**Data Scientist:**
 </div>
 
 
 <div align="center">
-  
-**Data Scientist:**
-| [<img src="https://avatars.githubusercontent.com/u/107559407?v=4" width=115><br><sub>Martin Varela</sub>](https://www.linkedin.com/in/martin-varela-b84821218/) | 
-  | :---: | 
+
+[<sub>Jocelyn Romano</sub>](https://www.linkedin.com/in/jocelynromano-biomedica/)
 </div>
+
+<div align="center">
+
+[<sub>Fanny Sánchez</sub>](https://www.linkedin.com/in/fanny-eugenia-fitz-707a61173/)
+</div>
+
+
 <div align="center">
 
 **Data Analyst:** 
-| [<img src="https://avatars.githubusercontent.com/u/118781524?v=4" width=115><br><sub>Claudia Caceres</sub>](https://www.linkedin.com/in/claudiacaceresv/) | [<img src="https://avatars.githubusercontent.com/u/126299452?v=4" width=115><br><sub>Mariano Bernal</sub>](https://www.linkedin.com/in/marianobernaldussel/) |
-  | :---: | :---: | 
+
 </div>
 
-## Metodología
 <div align="center">
 
-<img src="https://github.com/claudiacaceresv/pf_yelp_google/blob/c5c50e69c2a0653e9ba009a2f47b4215e04293af/src/Scrum.png" alt="Scrum" width="800">
-</div>
+[<sub>Jorge Gomez</sub>](https://www.linkedin.com/in/jorge-gomez-hernandez/)
+
+
+
+## Metodología
+
+FALTA
+
 
 ## Video
 
@@ -117,6 +134,8 @@ Toda la documentación relacionada a este proyecto podrás encontrarla en el sig
 
 <div align="center">
   
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/watch?v=Ts74J2YCUeo)
+[![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://debonair-gate-653.notion.site/Proyecto-Grupal-Henry-9f200b12cdfe456493410fb400b48010)
+  
+
   
 </div>
