@@ -12,8 +12,8 @@
     <li><a href="#Objetivo">Objetivo</a></li>
     <li><a href="#Alcance">Alcance</a></li>
     <li><a href="#Tecnologías">Tecnologías utilizadas</a></li>
-    <li><a href="#Pipeline">Pipeline</a></li>
-    <li><a href="#Equipo de Trabajo">Equipo de Trabajo</a></li>
+    <li><a href="#Flujo de Trabajo">Flujo de Trabajo</a></li>
+    <li><a href="#Nosotros">Nosotros</a></li>
     <li><a href="#Metodología">Metodología</a></li>
     <li><a href="#Documentación">Documentación</a></li>
   </ol>
@@ -55,14 +55,10 @@ Cabe destacar que este enfoque se acota a los años entre 2017 - 2021, ya que es
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
-## Pipeline
+## Flujo de Trabajo
 ![Pipeline](https://github.com/claudiacaceresv/pf_yelp_google/blob/66db4e678f8607989b44d038fedefa8b15426343/src/Workflow.png)
 
-- Diccionario de datos: [Link diccionario](https://docs.google.com/spreadsheets/d/1Ql947y1GzXEJM7HPYNJw1nR_lQjkVZgu/edit#gid=476215875)
-- ETL Automatizado: [Link ETL Automatizado](https://github.com/claudiacaceresv/pf_yelp_google/tree/c102dc8f0d1c5190f41dde386d208ff055918998/ETL%20Automatizado/ETL%20Automatizado)
-- ETL extraccion de la API de Google Places: [Link ETL API Places](https://github.com/claudiacaceresv/pf_yelp_google/tree/c102dc8f0d1c5190f41dde386d208ff055918998/ETL%20Automatizado/ETL%20API%20Google%20Places)
-- Dashboard y KPIs: [Link desarrollo Data Analytics](https://github.com/claudiacaceresv/pf_yelp_google/blob/4bf86faa0fa2b2a6b9fb6b4b68bb4ebe5a0e628b/Dashboard/README.md)
-- Sistema de recomendación: [Link desarrollo de sistema de recomendación](https://github.com/claudiacaceresv/pf_yelp_google/tree/459165bdc35ce4a381b544ee85191dc9ff499ffa/ML%20-%20API)
+
 
 ## Nosotros
 
@@ -129,6 +125,10 @@ FALTA
 ## Documentación 
 
 Toda la documentación relacionada a este proyecto podrás encontrarla en el siguiente link:
+
+- Diccionario de datos
+- Dashboard y KPIs
+- Sistema de recomendación
 
 
 <div align="center">
