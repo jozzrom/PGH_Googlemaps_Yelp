@@ -1,6 +1,6 @@
 <div align="center">
 
-![wink](https://github.com/jozzrom/PGH_Googlemaps_Yelp/blob/main/Im%C3%A1genes/dataistas.jpg)
+![wink](https://github.com/jozzrom/PGH_Googlemaps_Yelp/blob/main/Im%C3%A1genes/HEADER-BLOG-NEGRO-01.jpg)
 </div>
 
 ## Índice
