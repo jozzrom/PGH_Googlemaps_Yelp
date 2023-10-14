@@ -15,7 +15,7 @@
     <li><a href="#Pipeline">Pipeline</a></li>
     <li><a href="#Equipo de Trabajo">Equipo de Trabajo</a></li>
     <li><a href="#Metodología">Metodología</a></li>
-    <li><a href="#Video">Video</a></li>
+    <li><a href="#Documentación">Documentación</a></li>
   </ol>
 </details>
 
@@ -82,8 +82,6 @@ Haz click en nuestros nombres para visitar nuestro perfil en LinkedIn.
 ![Equipo](https://github.com/jozzrom/PGH_Googlemaps_Yelp/blob/main/Im%C3%A1genes/WhatsApp%20Image%202023-10-13%20at%202.56.04%20PM.jpeg)
 </div>
 
-
-</br>
 <div align="center">
   
 **Data Engineer:**
@@ -115,7 +113,7 @@ Haz click en nuestros nombres para visitar nuestro perfil en LinkedIn.
 
 **Data Analyst:** 
 
-
+</div>
 
 <div align="center">
 
@@ -128,14 +126,14 @@ Haz click en nuestros nombres para visitar nuestro perfil en LinkedIn.
 FALTA
 
 
-## Video
+## Documentación 
 
 Toda la documentación relacionada a este proyecto podrás encontrarla en el siguiente link:
+
 
 <div align="center">
   
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://debonair-gate-653.notion.site/Proyecto-Grupal-Henry-9f200b12cdfe456493410fb400b48010)
   
 
-  
 </div>
