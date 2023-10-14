@@ -34,6 +34,14 @@ Con el desarrollo del proyecto y el modelo, sería posible, en un futuro, amplia
 
 ## Alcance
 
+<div align="center">
+
+![Mapa Estados Unidos](https://github.com/jozzrom/PGH_Googlemaps_Yelp/blob/main/Im%C3%A1genes/WhatsApp-Video-2023-10-13-at-7.51.11-PM.gif)
+</div>
+
+
+
+
 El proyecto se enfocará en restaurantes de la cadena “KFC” ubicados en las ciudades de California, Nueva York, Colorado, Texas y Georgia, dentro de los Estados Unidos. De igual forma se incluirán los datos de la cadena Domino 's Pizza, McDonald's, Subway, Starbucks localizados en los estados ya mencionados.
 Cabe destacar que este enfoque se acota a los años entre 2017 - 2021, ya que estos años cuentan con datos particularmente significativos, considerando las fuentes seleccionadas de Google Maps y Yelp . La selección de la industria se basa en su variabilidad y relevancia en el contexto económico estadounidense.
 
