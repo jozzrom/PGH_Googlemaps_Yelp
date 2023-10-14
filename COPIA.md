@@ -1,6 +1,6 @@
 <div align="center">
 
-![wink](https://github.com/claudiacaceresv/pf_yelp_google/blob/8926dea5d6ea9196ba915fe27dfc480cfe4c2766/src/YELP%20%26%20GOOGLE%20MAPS%20REVIEWS%20AND%20RECOMMENDATIONS.gif)
+![wink](https://github.com/jozzrom/PGH_Googlemaps_Yelp/blob/main/Im%C3%A1genes/dataistas.jpg)
 </div>
 
 ## Índice
