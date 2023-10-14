@@ -76,13 +76,17 @@ Somos Dataistas, una consultora especializada en el análisis de negocios que ap
 Nuestra misión es brindar soluciones a medida para cada cliente, reconociendo que cada negocio es único y enfrenta desafíos específicos. Trabajamos en estrecha colaboración con nuestros clientes para comprender sus objetivos y necesidades, y luego aplicamos técnicas avanzadas de análisis de datos para obtener información relevante.
 
 
-Haz click en el link para visitar nuestro perfil en LinkedIn.
+Haz click en nuestros nombres para visitar nuestro perfil en LinkedIn.
+<div align="center">
+![Equipo](https://github.com/jozzrom/PGH_Googlemaps_Yelp/blob/main/Im%C3%A1genes/WhatsApp%20Image%202023-10-13%20at%202.56.04%20PM.jpeg)
+</div>
+
 
 </br>
 <div align="center">
   
 **Data Engineer:**
-![Federico Gravina ](https://www.linkedin.com/in/federico-gravina-23a289b2/)|
+![Federico Gravina](https://www.linkedin.com/in/federico-gravina-23a289b2/)|
   | :---: | :---: |
 </div>
 
