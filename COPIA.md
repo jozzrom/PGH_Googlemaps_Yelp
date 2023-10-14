@@ -64,7 +64,12 @@ Cabe destacar que este enfoque se acota a los años entre 2017 - 2021, ya que es
 - Dashboard y KPIs: [Link desarrollo Data Analytics](https://github.com/claudiacaceresv/pf_yelp_google/blob/4bf86faa0fa2b2a6b9fb6b4b68bb4ebe5a0e628b/Dashboard/README.md)
 - Sistema de recomendación: [Link desarrollo de sistema de recomendación](https://github.com/claudiacaceresv/pf_yelp_google/tree/459165bdc35ce4a381b544ee85191dc9ff499ffa/ML%20-%20API)
 
-## Equipo de Trabajo
+## Nosotros
+
+<div align="center">
+
+![Logo Dataistas](https://github.com/jozzrom/PGH_Googlemaps_Yelp/blob/main/Im%C3%A1genes/dataistas.jpg)
+</div>
 
 Somos Dataistas, una consultora especializada en el análisis de negocios que aplica la ciencia de datos de manera innovadora para impulsar el éxito de las empresas. Como equipo de científicos de datos experimentados en el rubro, nos dedicamos a transformar datos en información valiosa que guía decisiones estratégicas y proporciona una ventaja competitiva en el mercado.
 
