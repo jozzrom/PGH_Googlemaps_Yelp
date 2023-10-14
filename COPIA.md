@@ -117,7 +117,8 @@ Cabe destacar que este enfoque se acota a los años entre 2017 - 2021, ya que es
 
 
 ## Flujo de Trabajo
-![Pipeline](https://github.com/claudiacaceresv/pf_yelp_google/blob/66db4e678f8607989b44d038fedefa8b15426343/src/Workflow.png)
+
+FALTA
 
 
 
@@ -132,7 +133,9 @@ Toda la documentación relacionada a este proyecto podrás encontrarla en el sig
 
 - Diccionario de datos
 - Dashboard y KPIs
-- Sistema de recomendación
+- ML: Sistema de recomendación
+- Video Carga Ingremental
+- EDA
 
 
 <div align="center">
