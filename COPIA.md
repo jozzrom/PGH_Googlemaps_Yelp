@@ -115,13 +115,13 @@ Haz click en nuestros nombres para visitar nuestro perfil en LinkedIn.
 
 **Data Analyst:** 
 
-</div>
+
 
 <div align="center">
 
 [<sub>Jorge Gomez</sub>](https://www.linkedin.com/in/jorge-gomez-hernandez/)
 
-
+</div>
 
 ## Metodología
 
