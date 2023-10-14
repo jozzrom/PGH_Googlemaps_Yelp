@@ -78,6 +78,7 @@ Nuestra misión es brindar soluciones a medida para cada cliente, reconociendo q
 
 Haz click en nuestros nombres para visitar nuestro perfil en LinkedIn.
 <div align="center">
+
 ![Equipo](https://github.com/jozzrom/PGH_Googlemaps_Yelp/blob/main/Im%C3%A1genes/WhatsApp%20Image%202023-10-13%20at%202.56.04%20PM.jpeg)
 </div>
 
