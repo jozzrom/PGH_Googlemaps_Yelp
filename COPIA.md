@@ -82,9 +82,11 @@ Haz click en el link para visitar nuestro perfil en LinkedIn.
 <div align="center">
   
 **Data Engineer:**
-| [<img src="https://avatars.githubusercontent.com/u/128927944?v=4" width=115><br><sub>Sebastián Bello</sub>](https://www.linkedin.com/in/sebastian-bello/) | [<img src="https://avatars.githubusercontent.com/u/127915754?v=4" width=115><br><sub>Virginia Tenorio</sub>](https://www.linkedin.com/in/virginiatenoriov)|
+![Federico Gravina ](https://www.linkedin.com/in/federico-gravina-23a289b2/)|
   | :---: | :---: |
 </div>
+
+
 <div align="center">
   
 **Data Scientist:**
