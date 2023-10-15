@@ -139,18 +139,21 @@ Emplearemos una estrategia de trabajo dinámica centrada en el marco de trabajo 
 
 ## Documentación 
 
-La documentación completa, relacionada a este proyecto podrás encontrarla en el siguiente link:
-
-- Diccionario de datos
-- Dashboard y KPIs
-- ML: Sistema de recomendación
-- Video Carga Ingremental
-- EDA
-
+Toda la documentación relacionada a este proyecto podrás encontrarla en el siguiente link: 
 
 <div align="center">
   
 [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://debonair-gate-653.notion.site/Proyecto-Grupal-Henry-9f200b12cdfe456493410fb400b48010)
   
-
 </div>
+
+Entre los temas que encontrarás están:
+- Diccionario de datos
+- Dashboard y KPIs
+- ML: Sistema de recomendación
+- Video Carga Ingremental
+- EDA
+- Análisis de la información obtenida
+- Metodología del trabajo y asignación de tareas
+- Stack tec
+
