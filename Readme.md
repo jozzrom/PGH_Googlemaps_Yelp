@@ -115,6 +115,12 @@ Cabe destacar que este enfoque se acota a los años entre 2017 - 2021, ya que es
 ![DataPrep](https://img.shields.io/badge/DataPrep-FF5733?style=for-the-badge&logo=data-prep&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
+## Flujo de Trabajo
+<div align="center">
+
+![Flujo_de_datos](https://github.com/jozzrom/PGH_Googlemaps_Yelp/blob/main/Im%C3%A1genes/WhatsApp%20Image%202023-10-14%20at%205.13.51%20PM.jpeg)
+</div>
+
 
 ## Metodología
 
@@ -129,10 +135,7 @@ Emplearemos una estrategia de trabajo dinámica centrada en el marco de trabajo 
 [<sub>Haz click aquí</sub>](https://www.notion.so/839913e8274940f09d438c096c6d9c63?v=5d918f15306040db9c80495e5e83ffb7&p=22e7e24862974b9f90e757b05cc449df&pm=c)
 </div>
 
-## Flujo de Trabajo
-<div align="center">
-![Flujo_de_datos](https://github.com/jozzrom/PGH_Googlemaps_Yelp/blob/main/Im%C3%A1genes/WhatsApp%20Image%202023-10-14%20at%205.13.51%20PM.jpeg)
-</div>
+
 
 ## Documentación 
 
