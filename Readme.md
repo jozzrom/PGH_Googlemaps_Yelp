@@ -130,9 +130,9 @@ Emplearemos una estrategia de trabajo dinámica centrada en el marco de trabajo 
 </div>
 
 ## Flujo de Trabajo
-
-
-
+<div align="center">
+![Flujo_de_datos](https://github.com/jozzrom/PGH_Googlemaps_Yelp/blob/main/Im%C3%A1genes/WhatsApp%20Image%202023-10-14%20at%205.13.51%20PM.jpeg)
+</div>
 
 ## Documentación 
 
