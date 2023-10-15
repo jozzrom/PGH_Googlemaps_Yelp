@@ -116,11 +116,17 @@ Cabe destacar que este enfoque se acota a los años entre 2017 - 2021, ya que es
 ![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
 
-## Flujo de Trabajo
+## Metodología
 
-FALTA
+<div align="center">
+
+![Scrum](https://github.com/jozzrom/PGH_Googlemaps_Yelp/blob/main/Im%C3%A1genes/scrum.gif)
+</div>
+
+Emplearemos una estrategia de trabajo dinámica centrada en el marco de trabajo SCRUM, respaldada por la herramienta de gestión de proyectos Notion. Fragmentaremos y asignaremos tareas específicas, actualizaremos nuestro cronograma de actividades y vigilaremos de cerca el progreso general del proyecto.
 
 
+[<sub>Haz click aquí</sub>](https://www.notion.so/839913e8274940f09d438c096c6d9c63?v=5d918f15306040db9c80495e5e83ffb7&p=22e7e24862974b9f90e757b05cc449df&pm=c)
 
 ## Metodología
 
