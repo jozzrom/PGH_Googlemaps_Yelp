@@ -1,5 +1,8 @@
-Machine Lear
+Machine Learning
 
-<div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/1zi2FQvx8c6jXZB9dm" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/tao-trapcodetao-trapcode-1zi2FQvx8c6jXZB9dm">via GIPHY</a></p>
 
+
+
+
+Nuestro modelo de Machine Learning esta diseñado para calificar el sentimiento general de las reseñas obtenidas en plataformas online (Positivo, Negativo o Neutral), la cantidad de las mismas y su calificacion promedio (de 1 a 5). Luego analiza su ubicacion geograficay predice una puntuacion promedio para la apertura de un nuevo restaurante, segun estado y cadena a la que pertenece.
 
