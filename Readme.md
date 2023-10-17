@@ -166,14 +166,14 @@ Entre los temas, que encontrarás desarrollados, están:
 <details>
   <summary>Google_Maps</summary>
   <ol>
-    <li>1_EDA_Preliminar_Analisis_del_dato</li>
-    <li>2_Limpieza_Estados_Google_Maps</a></li>
-    <li>3_Analisis_sentimientos_Google_Maps</li>
-    <li>4_Merge_estado-metadata_Google_Maps</li>
-    <li>5_Merge_Google_Maps</li>
-    <li>6_Archivos_Finales_Google_Maps</li>
-    <li>7_Analisis</li>
-    <li>8_Resultados</li>
+    <li>EDA_Preliminar_Analisis_del_dato</li>
+    <li>Limpieza_Estados_Google_Maps</a></li>
+    <li>Analisis_sentimientos_Google_Maps</li>
+    <li>Merge_estado-metadata_Google_Maps</li>
+    <li>Merge_Google_Maps</li>
+    <li>Archivos_Finales_Google_Maps</li>
+    <li>Analisis</li>
+    <li>Resultados</li>
   </ol>
 </details>
 
@@ -181,10 +181,10 @@ Entre los temas, que encontrarás desarrollados, están:
 <details>
   <summary>Yelp</summary>
   <ol>
-    <li>1_EDA</li>
-    <li>2_Limpieza_datos</li>
-    <li>3_Análisis_de_sentimientos</li>
-    <li>4 - Modelo de recomendaciones</li>
+    <li>EDA</li>
+    <li>Limpieza_datos</li>
+    <li>Análisis_de_sentimientos</li>
+    <li>Modelo de recomendaciones</li>
   </ol>
 </details>
 
