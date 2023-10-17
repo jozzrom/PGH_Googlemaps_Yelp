@@ -17,8 +17,6 @@
     <li><a href="#Metodología">Metodología</a></li>
     <li><a href="#Documentación">Documentación</a></li>
     <li><a href="#¿qué-hay-en-este-repositorio">¿Qué hay en este Repositorio?</a></li>
-
-    
   </ol>
 </details>
 
