@@ -16,6 +16,9 @@
     <li><a href="#Flujo de Trabajo">Flujo de Trabajo</a></li>
     <li><a href="#Metodología">Metodología</a></li>
     <li><a href="#Documentación">Documentación</a></li>
+    <li><a href="#¿Qué hay en este Repositorio?">¿Qué hay en este Repositorio?</a></li>
+
+    
   </ol>
 </details>
 
@@ -147,7 +150,7 @@ Toda la documentación relacionada a este proyecto podrás encontrarla en el sig
   
 </div>
 
-Entre los temas que encontrarás están:
+Entre los temas, que encontrarás desarrollados, están:
 - Diccionario de datos
 - Dashboard y KPIs
 - ML: Sistema de recomendación
@@ -157,3 +160,48 @@ Entre los temas que encontrarás están:
 - Metodología del trabajo y asignación de tareas
 - Stack tec
 
+## ¿Qué hay en este Repositorio?
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Google_Maps</summary>
+  <ol>
+    <li>1_EDA_Preliminar_Analisis_del_dato</li>
+    <li>2_Limpieza_Estados_Google_Maps</a></li>
+    <li>3_Analisis_sentimientos_Google_Maps</li>
+    <li>4_Merge_estado-metadata_Google_Maps</li>
+    <li>5_Merge_Google_Maps</li>
+    <li>6_Archivos_Finales_Google_Maps</li>
+    <li>7_Analisis</li>
+    <li>8_Resultados</li>
+  </ol>
+</details>
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Yelp</summary>
+  <ol>
+    <li>1_EDA</li>
+    <li>2_Limpieza_datos</li>
+    <li>3_Análisis_de_sentimientos</li>
+    <li>4 - Modelo de recomendaciones</li>
+  </ol>
+</details>
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>KPI</summary>
+  <ol>
+    <li>KPI_Modelo_Rating&Reseñas_Positivas</li>
+    <li>KPI_Modelo_ReseñasNegativas</li>
+    <li>KPI_Ratio_Reseñas_Mensual</li>
+  </ol>
+</details>
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>ML</summary>
+  <ol>
+    <li>Machine_Learning</li>
+    <li>DeployNuevoLocal</li>
+  </ol>
+</details>
