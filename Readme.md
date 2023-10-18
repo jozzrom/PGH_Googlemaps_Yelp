@@ -119,7 +119,7 @@ Cabe destacar que este enfoque se acota a los años entre 2017 - 2021, ya que es
 ## Flujo de Trabajo
 <div align="center">
 
-![Flujo_de_datos](https://github.com/jozzrom/PGH_Googlemaps_Yelp/blob/main/Im%C3%A1genes/WhatsApp%20Image%202023-10-14%20at%205.13.51%20PM.jpeg)
+![Flujo_de_datos](https://github.com/jozzrom/PGH_Googlemaps_Yelp/blob/main/Im%C3%A1genes/Untitled.png)
 </div>
 
 
